@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1ba1af8-fcfe-4b11-b150-dc0c520fdc65" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SwEx01/AddIn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+              <folding>
+                <marker date="1569405764465" expanded="false" signature="6:315" ph="..." />
+                <marker date="1569405764465" expanded="true" signature="333:3328" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="509:3326" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="692:1213" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="1255:1376" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="1432:2051" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="1458:1867" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="1501:1853" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="1899:2041" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="2144:3311" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="2179:3301" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="2451:3239" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="2661:2790" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="2862:3217" ph="{...}" />
+                <marker date="1569405764465" expanded="true" signature="3050:3191" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SwEx01/ModelDocx.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <marker date="1569405764512" expanded="true" signature="6:82" ph="..." />
+                <marker date="1569405764512" expanded="true" signature="100:2545" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="136:2543" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="228:345" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="450:581" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="692:1990" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="839:1793" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="971:1645" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="1495:1627" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="1666:1778" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="1813:1967" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="2086:2537" ph="{...}" />
+                <marker date="1569405764512" expanded="true" signature="2311:2426" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SwEx01/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3A39338E-2C45-47C6-8D58-6BCFE1A5290F/60/2662f42b/EnumCommandSpec`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SwEx01/ModelDocx.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SwEx01/AddIn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SwEx01/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E94C63AA-C69E-4200-9534-A8E047971897/f8/753b5d5d/ISldWorks.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5347E5DF-BEE8-4951-8991-46D8604137E1/4a/e3273d4f/LocalWindowsHook.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SwEx01/Resources.Designer.cs" />
+        <option value="$PROJECT_DIR$/SwEx01/AddIn.cs" />
+        <option value="$PROJECT_DIR$/SwEx01/ModelDocx.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SwEx01" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SwEx01" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SwEx01" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="5427d58d:AssemblyExplorerRootNode" />
+              <item name="SolidWorks.Interop.swpublished (27.1.0.72, msil, .Net Framework v4.0)" type="5e97225f:AssemblyExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SWDLLS/primitives-icon.png" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="C:/Program Files/SOLIDWORKS Corp/SOLIDWORKS/SLDWORKS.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SwEx01" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SwEx01/SwEx01.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ba1af8-fcfe-4b11-b150-dc0c520fdc65" name="Default Changelist" comment="" />
+      <created>1569313531147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569313531147</updated>
+      <workItem from="1569313571767" duration="1251000" />
+      <workItem from="1569315666095" duration="611000" />
+      <workItem from="1569324808400" duration="10811000" />
+      <workItem from="1569342112464" duration="1591000" />
+      <workItem from="1569399444432" duration="5557000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19821000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26455027" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32913387" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32913387" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SwEx01/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwEx01/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1569313445713" expanded="true" signature="6:62" ph="..." />
+            <marker date="1569313445713" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1569313445713" expanded="true" signature="550:760" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1569313445713" expanded="true" signature="935:1262" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E94C63AA-C69E-4200-9534-A8E047971897/f8/753b5d5d/ISldWorks.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="803" column="14" selection-start-line="803" selection-start-column="14" selection-end-line="803" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5347E5DF-BEE8-4951-8991-46D8604137E1/4a/e3273d4f/LocalWindowsHook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3A39338E-2C45-47C6-8D58-6BCFE1A5290F/60/2662f42b/EnumCommandSpec`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwEx01/primitives-icon.png" />
+    <entry file="file://$PROJECT_DIR$/SwEx01/cylinder-icon.png" />
+    <entry file="file://$PROJECT_DIR$/SwEx01/box-icon.png" />
+    <entry file="file://$PROJECT_DIR$/SwEx01/Resources.resx" />
+    <entry file="file://$PROJECT_DIR$/SwEx01/Resources.Designer.cs" />
+    <entry file="file://$PROJECT_DIR$/SwEx01/ModelDocx.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1569405764512" expanded="true" signature="6:82" ph="..." />
+            <marker date="1569405764512" expanded="true" signature="100:2545" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="136:2543" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="228:345" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="450:581" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="692:1990" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="839:1793" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="971:1645" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="1495:1627" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="1666:1778" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="1813:1967" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="2086:2537" ph="{...}" />
+            <marker date="1569405764512" expanded="true" signature="2311:2426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwEx01/AddIn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+          <folding>
+            <marker date="1569405764465" expanded="false" signature="6:315" ph="..." />
+            <marker date="1569405764465" expanded="true" signature="333:3328" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="509:3326" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="692:1213" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="1255:1376" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="1432:2051" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="1458:1867" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="1501:1853" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="1899:2041" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="2144:3311" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="2179:3301" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="2451:3239" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="2661:2790" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="2862:3217" ph="{...}" />
+            <marker date="1569405764465" expanded="true" signature="3050:3191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

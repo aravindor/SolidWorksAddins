@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Abhi\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Abhi\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_SwEx01.-426423232.00" t="ExcludeRecursive" />
+    <e p="S:\Work\CS\SwEx01" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SwEx01" t="IncludeRecursive">
+        <e p="AddIn.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ModelDocx.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="box-icon.png" t="Include" />
+          <e p="cylinder-icon.png" t="Include" />
+          <e p="primitives-icon.png" t="Include" />
+        </e>
+        <e p="SwEx01.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="SwEx01.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
