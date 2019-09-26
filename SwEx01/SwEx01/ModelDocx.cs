@@ -6,19 +6,23 @@ namespace SwEx01
 {
     public static class ModelDocx
     {
-         public static void CreateCylinder(ModelDoc2 model,double dia, double height)
+         public static void CreateCylinder(IEntity reference,ModelDoc2 model,double dia, double height)
         {
-            CreateExtrusion(model,skmgr=>skmgr.CreateCircleByRadius(0,0,0,dia/2)!=null,height );
+            CreateExtrusion(reference,model,skmgr=>skmgr.CreateCircleByRadius(0,0,0,dia/2)!=null,height );
         }
         
-        public static void CreateBox(ModelDoc2 model,double width,double length, double height)
+        public static void CreateBox(IEntity reference,ModelDoc2 model,double width,double length, double height)
         {
-            CreateExtrusion(model,skmgr=>skmgr.CreateCenterRectangle(0,0,0,width/2,length/2,0)!=null,height );
+            CreateExtrusion(reference,model,skmgr=>skmgr.CreateCenterRectangle(0,0,0,width/2,length/2,0)!=null,height );
         }
 
 
-        private static void CreateExtrusion(ModelDoc2 model,Func<ISketchManager,bool> creator,double height)
+        private static void CreateExtrusion(IEntity reference,ModelDoc2 model,Func<ISketchManager,bool> creator,double height)
         {
+            if (!reference.SelectByMark(false,0))
+            {
+                throw new Exception("Failed select reference !");
+            }
 
             model.IActiveView.EnableGraphicsUpdate = false;
             model.FeatureManager.EnableFeatureTree = false;

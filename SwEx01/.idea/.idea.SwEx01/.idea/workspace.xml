@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1ba1af8-fcfe-4b11-b150-dc0c520fdc65" name="Default Changelist" comment="" />
+    <list default="true" id="a1ba1af8-fcfe-4b11-b150-dc0c520fdc65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SwEx01/CylinderData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwEx01/PropertyPageHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwEx01/ReferenceSelectionCustomFilter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SwEx01/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SwEx01/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SwEx01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SwEx01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SwEx01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SwEx01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/AddIn.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/AddIn.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/ModelDocx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/ModelDocx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/SwEx01.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/SwEx01.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/bin/Debug/SwEx01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/bin/Debug/SwEx01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/bin/Debug/SwEx01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/bin/Debug/SwEx01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/bin/Debug/SwEx01.tlb" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/bin/Debug/SwEx01.tlb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/obj/Debug/SwEx01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/obj/SwEx01.csproj.UnmanagedRegistration.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/obj/SwEx01.csproj.UnmanagedRegistration.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwEx01/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/SwEx01/packages.config" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,27 +30,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwEx01/AddIn.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+            <state relative-caret-position="-51">
+              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="46" />
               <folding>
-                <marker date="1569405764465" expanded="false" signature="6:315" ph="..." />
-                <marker date="1569405764465" expanded="true" signature="333:3328" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="509:3326" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="692:1213" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="1255:1376" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="1432:2051" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="1458:1867" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="1501:1853" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="1899:2041" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="2144:3311" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="2179:3301" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="2451:3239" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="2661:2790" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="2862:3217" ph="{...}" />
-                <marker date="1569405764465" expanded="true" signature="3050:3191" ph="{...}" />
+                <marker date="1569424702809" expanded="false" signature="6:378" ph="..." />
+                <marker date="1569424702809" expanded="true" signature="396:4862" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="572:4860" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="757:1274" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="1444:1887" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="1778:1851" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="1987:2315" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2092:2305" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2157:2291" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2397:2893" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2500:2883" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2534:2663" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2699:2853" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2949:3550" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="2975:3366" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="3018:3352" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="3398:3540" ph="{...}" />
+                <marker date="1569424702809" expanded="true" signature="3552:4854" ph="/* private void OnButtonEnabled(commands_enum cmd, ref CommandItemEnableState_e state) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SwEx01/PropertyPageHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <marker date="1569416450770" expanded="true" signature="6:66" ph="..." />
+                <marker date="1569416450770" expanded="true" signature="84:198" ph="{...}" />
+                <marker date="1569416450770" expanded="true" signature="175:196" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SwEx01/ReferenceSelectionCustomFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <marker date="1569427303132" expanded="true" signature="6:140" ph="..." />
+                <marker date="1569427303132" expanded="true" signature="158:706" ph="{...}" />
+                <marker date="1569427303132" expanded="true" signature="241:704" ph="{...}" />
+                <marker date="1569427303132" expanded="true" signature="400:698" ph="{...}" />
+                <marker date="1569427303132" expanded="true" signature="464:662" ph="{...}" />
+                <marker date="1569427303132" expanded="true" signature="578:648" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,22 +93,40 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SwEx01/ModelDocx.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="-459">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="24" selection-end-column="11" />
               <folding>
-                <marker date="1569405764512" expanded="true" signature="6:82" ph="..." />
-                <marker date="1569405764512" expanded="true" signature="100:2545" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="136:2543" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="228:345" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="450:581" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="692:1990" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="839:1793" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="971:1645" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="1495:1627" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="1666:1778" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="1813:1967" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="2086:2537" ph="{...}" />
-                <marker date="1569405764512" expanded="true" signature="2311:2426" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="6:82" ph="..." />
+                <marker date="1569423442826" expanded="true" signature="100:2763" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="136:2761" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="246:373" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="496:637" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="766:2208" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="826:920" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="1057:2011" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="1189:1863" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="1713:1845" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="1884:1996" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="2031:2185" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="2304:2755" ph="{...}" />
+                <marker date="1569423442826" expanded="true" signature="2529:2644" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SwEx01/CylinderData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <marker date="1569426676478" expanded="true" signature="6:202" ph="..." />
+                <marker date="1569426676478" expanded="true" signature="220:1791" ph="{...}" />
+                <marker date="1569426676478" expanded="true" signature="496:1789" ph="{...}" />
+                <marker date="1569426676478" expanded="true" signature="917:1005" ph="{...}" />
+                <marker date="1569426676478" expanded="true" signature="1321:1397" ph="{...}" />
+                <marker date="1569426676478" expanded="true" signature="1701:1783" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -63,23 +135,30 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SwEx01/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6B0EF510-C098-4094-B0FE-F0FB21BB11BD/1c/26d39bb9/swControlBitmapLabelType_e.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SwEx01/ReferenceSelectionCustomFilter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3A39338E-2C45-47C6-8D58-6BCFE1A5290F/60/2662f42b/EnumCommandSpec`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SwEx01/ModelDocx.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SwEx01/AddIn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SwEx01/CylinderData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SwEx01/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E94C63AA-C69E-4200-9534-A8E047971897/f8/753b5d5d/ISldWorks.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5347E5DF-BEE8-4951-8991-46D8604137E1/4a/e3273d4f/LocalWindowsHook.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SwEx01/PropertyPageHandler.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SwEx01/Resources.Designer.cs" />
-        <option value="$PROJECT_DIR$/SwEx01/AddIn.cs" />
+        <option value="$PROJECT_DIR$/SwEx01/PropertyPageHandler.cs" />
         <option value="$PROJECT_DIR$/SwEx01/ModelDocx.cs" />
+        <option value="$PROJECT_DIR$/SwEx01/AddIn.cs" />
+        <option value="$PROJECT_DIR$/SwEx01/CylinderData.cs" />
+        <option value="$PROJECT_DIR$/SwEx01/ReferenceSelectionCustomFilter.cs" />
       </list>
     </option>
   </component>
@@ -89,12 +168,15 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -112,7 +194,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer">
         <subPane>
           <expand>
@@ -133,7 +214,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SWDLLS/primitives-icon.png" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,11 +263,13 @@
       <workItem from="1569324808400" duration="10811000" />
       <workItem from="1569342112464" duration="1591000" />
       <workItem from="1569399444432" duration="5557000" />
+      <workItem from="1569407194843" duration="1981000" />
+      <workItem from="1569418142213" duration="7726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19821000" />
+    <option name="totallyTimeSpent" value="29528000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,7 +283,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26455027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27210885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,6 +315,11 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -290,46 +378,99 @@
     <entry file="file://$PROJECT_DIR$/SwEx01/Resources.Designer.cs" />
     <entry file="file://$PROJECT_DIR$/SwEx01/ModelDocx.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="-459">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="24" selection-end-column="11" />
           <folding>
-            <marker date="1569405764512" expanded="true" signature="6:82" ph="..." />
-            <marker date="1569405764512" expanded="true" signature="100:2545" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="136:2543" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="228:345" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="450:581" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="692:1990" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="839:1793" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="971:1645" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="1495:1627" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="1666:1778" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="1813:1967" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="2086:2537" ph="{...}" />
-            <marker date="1569405764512" expanded="true" signature="2311:2426" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="6:82" ph="..." />
+            <marker date="1569423442826" expanded="true" signature="100:2763" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="136:2761" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="246:373" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="496:637" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="766:2208" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="826:920" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="1057:2011" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="1189:1863" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="1713:1845" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="1884:1996" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="2031:2185" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="2304:2755" ph="{...}" />
+            <marker date="1569423442826" expanded="true" signature="2529:2644" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6B0EF510-C098-4094-B0FE-F0FB21BB11BD/1c/26d39bb9/swControlBitmapLabelType_e.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwEx01/PropertyPageHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <marker date="1569416450770" expanded="true" signature="6:66" ph="..." />
+            <marker date="1569416450770" expanded="true" signature="84:198" ph="{...}" />
+            <marker date="1569416450770" expanded="true" signature="175:196" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SwEx01/AddIn.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="52" column="39" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        <state relative-caret-position="-51">
+          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="46" />
           <folding>
-            <marker date="1569405764465" expanded="false" signature="6:315" ph="..." />
-            <marker date="1569405764465" expanded="true" signature="333:3328" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="509:3326" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="692:1213" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="1255:1376" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="1432:2051" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="1458:1867" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="1501:1853" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="1899:2041" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="2144:3311" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="2179:3301" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="2451:3239" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="2661:2790" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="2862:3217" ph="{...}" />
-            <marker date="1569405764465" expanded="true" signature="3050:3191" ph="{...}" />
+            <marker date="1569424702809" expanded="false" signature="6:378" ph="..." />
+            <marker date="1569424702809" expanded="true" signature="396:4862" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="572:4860" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="757:1274" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="1444:1887" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="1778:1851" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="1987:2315" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2092:2305" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2157:2291" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2397:2893" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2500:2883" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2534:2663" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2699:2853" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2949:3550" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="2975:3366" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="3018:3352" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="3398:3540" ph="{...}" />
+            <marker date="1569424702809" expanded="true" signature="3552:4854" ph="/* private void OnButtonEnabled(commands_enum cmd, ref CommandItemEnableState_e state) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwEx01/ReferenceSelectionCustomFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <marker date="1569427303132" expanded="true" signature="6:140" ph="..." />
+            <marker date="1569427303132" expanded="true" signature="158:706" ph="{...}" />
+            <marker date="1569427303132" expanded="true" signature="241:704" ph="{...}" />
+            <marker date="1569427303132" expanded="true" signature="400:698" ph="{...}" />
+            <marker date="1569427303132" expanded="true" signature="464:662" ph="{...}" />
+            <marker date="1569427303132" expanded="true" signature="578:648" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SwEx01/CylinderData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <marker date="1569426676478" expanded="true" signature="6:202" ph="..." />
+            <marker date="1569426676478" expanded="true" signature="220:1791" ph="{...}" />
+            <marker date="1569426676478" expanded="true" signature="496:1789" ph="{...}" />
+            <marker date="1569426676478" expanded="true" signature="917:1005" ph="{...}" />
+            <marker date="1569426676478" expanded="true" signature="1321:1397" ph="{...}" />
+            <marker date="1569426676478" expanded="true" signature="1701:1783" ph="{...}" />
           </folding>
         </state>
       </provider>
